@@ -1,0 +1,123 @@
+Dependencies for Project 'Parking', Target 'Target 1': (DO NOT MODIFY !)
+CompilerVersion: 6210000::V6.21::ARMCLANG
+F (.\main.c)(0x6862525C)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./LCD-I2C-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/Acer/AppData/Local/Arm/Packs/ARM/CMSIS/6.0.0/CMSIS/Core/Include-IC:/Users/Acer/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="539" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o ./objects/main.o -MD)
+I (LCD-I2C\lcd-i2c.hrervo.h)(0x00000000)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x6613D570)
+I (RTE\_Target_1\RTE_Components.h)(0x685D43D3)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\core_cm3.h)(0x6613D69E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6569BE22)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_version.h)(0x6613D69E)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_compiler.h)(0x6613D69E)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h)(0x6613D69E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x6569BE20)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x6613D570)
+I (timer.hs:\Keil_v5\ARM\ARMCLANG\include\stdio.h3uzzer.h)(0x00000000)
+F (.\timer.c)(0x685D4D00)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./LCD-I2C-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/Acer/AppData/Local/Arm/Packs/ARM/CMSIS/6.0.0/CMSIS/Core/Include-IC:/Users/Acer/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="539" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o ./objects/timer.o -MD)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x6613D570)
+I (RTE\_Target_1\RTE_Components.h)(0x685D43D3)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\core_cm3.h)(0x6613D69E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6569BE22)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_version.h)(0x6613D69E)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_compiler.h)(0x6613D69E)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h)(0x6613D69E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x6569BE20)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x6613D570)
+I (timer.h)(0x685D4D00)
+F (.\timer.h)(0x685D4D00)()
+F (.\main.h)(0x68623C46)()
+F (.\infraredsensor.c)(0x68622468)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./LCD-I2C-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/Acer/AppData/Local/Arm/Packs/ARM/CMSIS/6.0.0/CMSIS/Core/Include-IC:/Users/Acer/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="539" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o ./objects/infraredsensor.o -MD)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x6613D570)
+I (RTE\_Target_1\RTE_Components.h)(0x685D43D3)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\core_cm3.h)(0x6613D69E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6569BE22)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_version.h)(0x6613D69E)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_compiler.h)(0x6613D69E)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h)(0x6613D69E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x6569BE20)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x6613D570)
+I (LCD-I2C\systick_time.h)(0x6144278F)
+F (.\infraredsensor.h)(0x68622468)()
+F (.\LCD-I2C\i2c.c)(0x684AF024)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./LCD-I2C-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/Acer/AppData/Local/Arm/Packs/ARM/CMSIS/6.0.0/CMSIS/Core/Include-IC:/Users/Acer/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="539" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o ./objects/i2c.o -MD)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x6613D570)
+I (RTE\_Target_1\RTE_Components.h)(0x685D43D3)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\core_cm3.h)(0x6613D69E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6569BE22)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_version.h)(0x6613D69E)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_compiler.h)(0x6613D69E)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h)(0x6613D69E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x6569BE20)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x6613D570)
+I (LCD-I2C\i2c.h)(0x684AE749)
+F (.\LCD-I2C\i2c.h)(0x684AE749)()
+F (.\LCD-I2C\lcd-i2c.c)(0x685D618E)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./LCD-I2C-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/Acer/AppData/Local/Arm/Packs/ARM/CMSIS/6.0.0/CMSIS/Core/Include-IC:/Users/Acer/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="539" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o ./objects/lcd-i2c.o -MD)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x6613D570)
+I (RTE\_Target_1\RTE_Components.h)(0x685D43D3)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\core_cm3.h)(0x6613D69E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6569BE22)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_version.h)(0x6613D69E)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_compiler.h)(0x6613D69E)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h)(0x6613D69E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x6569BE20)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x6613D570)
+I (LCD-I2C\pcf8574.hDCD-I2C\systick_time.heCD-I2C\lcd-i2c.h)(0x00000000)
+F (.\LCD-I2C\lcd-i2c.h)(0x685D618E)()
+F (.\LCD-I2C\pcf8574.c)(0x684AF0FE)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./LCD-I2C-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/Acer/AppData/Local/Arm/Packs/ARM/CMSIS/6.0.0/CMSIS/Core/Include-IC:/Users/Acer/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="539" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o ./objects/pcf8574.o -MD)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x6613D570)
+I (RTE\_Target_1\RTE_Components.h)(0x685D43D3)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\core_cm3.h)(0x6613D69E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6569BE22)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_version.h)(0x6613D69E)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_compiler.h)(0x6613D69E)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h)(0x6613D69E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x6569BE20)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x6613D570)
+I (LCD-I2C\pcf8574.h)(0x684AF0FE)
+F (.\LCD-I2C\pcf8574.h)(0x684AF0FE)()
+F (.\LCD-I2C\systick_time.c)(0x6144278F)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./LCD-I2C-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/Acer/AppData/Local/Arm/Packs/ARM/CMSIS/6.0.0/CMSIS/Core/Include-IC:/Users/Acer/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="539" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o ./objects/systick_time.o -MD)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x6613D570)
+I (RTE\_Target_1\RTE_Components.h)(0x685D43D3)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\core_cm3.h)(0x6613D69E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6569BE22)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_version.h)(0x6613D69E)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_compiler.h)(0x6613D69E)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h)(0x6613D69E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x6569BE20)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x6613D570)
+I (LCD-I2C\systick_time.h)(0x6144278F)
+F (.\LCD-I2C\systick_time.h)(0x6144278F)()
+F (.\servo.h)(0x685D49A9)()
+F (.\servo.c)(0x685D49A9)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./LCD-I2C-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/Acer/AppData/Local/Arm/Packs/ARM/CMSIS/6.0.0/CMSIS/Core/Include-IC:/Users/Acer/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="539" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o ./objects/servo.o -MD)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x6613D570)
+I (RTE\_Target_1\RTE_Components.h)(0x685D43D3)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\core_cm3.h)(0x6613D69E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6569BE22)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_version.h)(0x6613D69E)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_compiler.h)(0x6613D69E)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h)(0x6613D69E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x6569BE20)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x6613D570)
+I (servo.h)(0x685D49A9)
+F (.\buzzer.c)(0x68622438)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./LCD-I2C-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/Acer/AppData/Local/Arm/Packs/ARM/CMSIS/6.0.0/CMSIS/Core/Include-IC:/Users/Acer/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="539" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o ./objects/buzzer.o -MD)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x6613D570)
+I (RTE\_Target_1\RTE_Components.h)(0x685D43D3)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\core_cm3.h)(0x6613D69E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6569BE22)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_version.h)(0x6613D69E)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_compiler.h)(0x6613D69E)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h)(0x6613D69E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x6569BE20)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x6613D570)
+I (buzzer.h)(0x68622438)
+F (.\buzzer.h)(0x68622438)()
+F (RTE/Device/STM32F103C8/RTE_Device.h)(0x6613D571)()
+F (RTE/Device/STM32F103C8/startup_stm32f10x_md.s)(0x6613D570)(--target=arm-arm-none-eabi -mcpu=cortex-m3 -masm=auto  -Wa,armasm,--diag_suppress=A1950W -c-gdwarf-4-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/Acer/AppData/Local/Arm/Packs/ARM/CMSIS/6.0.0/CMSIS/Core/Include-IC:/Users/Acer/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-Wa,armasm,--pd,"__UVISION_VERSION SETA 539" -Wa,armasm,--pd,"_RTE_ SETA 1" -Wa,armasm,--pd,"STM32F10X_MD SETA 1" -Wa,armasm,--pd,"_RTE_ SETA 1"-o ./objects/startup_stm32f10x_md.o)
+F (RTE/Device/STM32F103C8/system_stm32f10x.c)(0x6613D570)(-xc -std=c99 --target=arm-arm-none-eabi -mcpu=cortex-m3 -c-fno-rtti -funsigned-char -fshort-enums -fshort-wchar-gdwarf-4 -O1 -ffunction-sections -Wno-packed -Wno-missing-variable-declarations -Wno-missing-prototypes -Wno-missing-noreturn -Wno-sign-conversion -Wno-nonportable-include-path -Wno-reserved-id-macro -Wno-unused-macros -Wno-documentation-unknown-command -Wno-documentation -Wno-license-management -Wno-parentheses-equality -Wno-reserved-identifier -I ./LCD-I2C-I./RTE/Device/STM32F103C8-I./RTE/_Target_1-IC:/Users/Acer/AppData/Local/Arm/Packs/ARM/CMSIS/6.0.0/CMSIS/Core/Include-IC:/Users/Acer/AppData/Local/Arm/Packs/Keil/STM32F1xx_DFP/2.4.1/Device/Include-D__UVISION_VERSION="539" -D_RTE_ -DSTM32F10X_MD -D_RTE_-o ./objects/system_stm32f10x.o -MD)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\stm32f10x.h)(0x6613D570)
+I (RTE\_Target_1\RTE_Components.h)(0x685D43D3)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\core_cm3.h)(0x6613D69E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\stdint.h)(0x6569BE22)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_version.h)(0x6613D69E)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\cmsis_compiler.h)(0x6613D69E)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\ARM\CMSIS\6.0.0\CMSIS\Core\Include\m-profile\cmsis_armclang_m.h)(0x6613D69E)
+I (C:\Keil_v5\ARM\ARMCLANG\include\arm_acle.h)(0x6569BE20)
+I (C:\Users\Acer\AppData\Local\Arm\Packs\Keil\STM32F1xx_DFP\2.4.1\Device\Include\system_stm32f10x.h)(0x6613D570)
